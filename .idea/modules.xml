@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataStructures.iml" filepath="$PROJECT_DIR$/.idea/modules/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DataStructures.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DataStructures.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DataStructures.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DataStructures.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DataStructures.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DataStructures.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DataStructures.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DataStructures.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
